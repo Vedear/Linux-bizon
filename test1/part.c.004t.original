@@ -1,0 +1,9 @@
+
+;; Function number (null)
+;; enabled by -tree-original
+
+
+{
+  return 42;
+}
+

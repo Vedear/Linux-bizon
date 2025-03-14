@@ -1,0 +1,14 @@
+main ()
+{
+  int D.2317;
+
+  {
+    printf ("Hello World!\n");
+    D.2317 = number ();
+    return D.2317;
+  }
+  D.2317 = 0;
+  return D.2317;
+}
+
+
